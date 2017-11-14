@@ -1,0 +1,5 @@
+<resources>
+    <integer name="com_vk_sdk_AppId">6257449</integer>
+
+    <string name="app_name">InstaToVK</string>
+</resources>
